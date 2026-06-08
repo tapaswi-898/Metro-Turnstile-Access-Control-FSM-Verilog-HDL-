@@ -5,9 +5,13 @@ A Verilog HDL implementation of a metro turnstile access control system using a 
 
 ## Features
 FSM-based control logic
+
 Access code validation
+
 Timed door opening mechanism
+
 Automatic return to idle state
+
 Functional verification using a testbench
 
 ## States
