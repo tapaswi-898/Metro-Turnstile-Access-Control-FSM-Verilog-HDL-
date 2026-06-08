@@ -16,14 +16,19 @@ Functional verification using a testbench
 
 ## States
 Idle
+
 Check Code
+
 Access Granted
 
 ## Tools Used
 Verilog HDL
+
 Xilinx Vivado
 
 ## Applications
 Metro ticketing systems
+
 Automated access control
+
 Entry gate management
